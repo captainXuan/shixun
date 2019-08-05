@@ -10,7 +10,7 @@ public class ChessData {
 	public static List<Chess> chessesList = new ArrayList();
 	static {
 		Chess chess1 = new Chess();
-		chess1.setName("¸«Íõ");
+		chess1.setName("fuwang");
 		chess1.setProfession(ProfessionData.professions[0]);
 		chess1.setRace(RaceData.races[1]);
 		chess1.setLevel(1);
