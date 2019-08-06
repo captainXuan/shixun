@@ -16,6 +16,11 @@ public class ProfessionData {
 		Profession profession3 = new Profession();
 		profession3.setProfessionName("法师");
 		professions[2] = profession3;
+	
+		Profession profession4 = new Profession();
+		profession4.setProfessionName("术士");
+		professions[3] = profession4;
+	
 	}
 	
 }

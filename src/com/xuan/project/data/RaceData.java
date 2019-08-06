@@ -17,6 +17,10 @@ public class RaceData {
 		Race race3 = new Race();
 		race3.setRaceName("¾«Áé");
 		races[2] = race3;
+		
+		Race race4 = new Race();
+		race4.setRaceName("¶ñÄ§");
+		races[3] = race4;
 	}
 	
 }

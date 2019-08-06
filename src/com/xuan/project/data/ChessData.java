@@ -29,5 +29,14 @@ public class ChessData {
 		chess3.setRace(RaceData.races[0]);
 		chess3.setLevel(3);
 		chessesList.add(chess3);
+		
+		Chess chess4 = new Chess();
+		chess4.setName("Ӱħ");
+		chess4.setProfession(ProfessionData.professions[3]);
+		chess4.setRace(RaceData.races[3]);
+		chess4.setLevel(4);
+		chessesList.add(chess4);
+		
+	
 	}
 }
